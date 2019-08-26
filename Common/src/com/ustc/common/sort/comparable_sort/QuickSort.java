@@ -3,7 +3,7 @@ package com.ustc.common.sort.comparable_sort;
 import java.util.Arrays;
 
 /**
- * 快速排序算法
+ * 快速排序算法：每次循环，基数左边全小于基数，基数右边全大于基数
  *
  * @author tangfeng
  * @since 2019年08月25日 10:41
