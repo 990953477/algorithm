@@ -1,7 +1,5 @@
 package com.ustc.common.sort.uncomparable_sort;
 
-import com.ustc.common.sort.comparable_sort.QuickSort;
-
 import java.util.Arrays;
 
 /**
